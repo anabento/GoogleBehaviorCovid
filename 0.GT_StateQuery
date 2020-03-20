@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 # Felipe Comments:
+#   The code provided in this github page is for replicability purposes only. The API key and other access parameters have 
+#   been removed in order to protect the restricted data.
+# Instructions
 # Get the state / dma / sountries file in the folder and cd to it
 # pip install any libraries missing.
 # change the directory to the same where the states.csv list file is (google state tickers)

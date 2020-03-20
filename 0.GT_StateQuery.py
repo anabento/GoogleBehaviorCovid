@@ -1,4 +1,3 @@
-```python
 # -*- coding: utf-8 -*-
 # Felipe Comments:
 #   The code provided in this github page is for replicability purposes only. The API key and other access parameters have 
@@ -251,5 +250,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-``` 
-

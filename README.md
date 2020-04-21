@@ -15,7 +15,6 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 # Inquiries
 
-
 If you have technical questions about the data collection, please contact Thuy Nguyen at thdnguye[at]iu[dot]edu or Felipe Lozano-Rojas at flozanor[at]iu[dot]edu.
 
-If you have any further questions about this dataset please contact Ana Bento at abento[at]iu[dot]edu or Kosali Simon  at simonkos[at]iu[dot]edu
+If you have any further questions about this dataset please contact Ana Bento at abento[at]iu[dot]edu or Kosali Simon at simonkos[at]iu[dot]edu

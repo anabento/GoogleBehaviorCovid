@@ -1,5 +1,5 @@
 # Google Searches Behavior Covid-19
-Project on Google Searches made after the announcement of the first COVID-19 case in each state (SARS-CoV-2). We used the Google’s search API to track searches preceding 40 days up to 20 days after the first case COVID-19 announcement in each state in the U.S. To comply with Google’s Terms of Service, we are only releasing results but not the search protocol. The data is released for non-commercial research use.
+Project on Google Searches made after the announcement of the first COVID-19 case in each state (SARS-CoV-2). We used the Google’s search API to track searches preceding 40 days up to 20 days after the first case COVID-19 announcement in each state in the U.S. To comply with Google’s Terms of Service, we are only releasing results but not the search protocol. The data is released for non-commercial research use. Work in collab with https://github.com/nguyendieuthuy
 
 # Data Organization
 

@@ -10,6 +10,7 @@
 """
 Created on Thu Mar 12 12:18:45 2020
 @author: thakk
+Credit to Google Trends API team 
 
 Edited on Thu Mar 19 
 @edits:  flozanor
